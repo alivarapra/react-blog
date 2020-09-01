@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{183:function(e,t,a){"use strict";a.r(t);var n=a(0),o=a.n(n),i=a(233),s=a(215);t.default=function(){return o.a.createElement(i.b,{banner:"Books"},o.a.createElement(s.b,{booklist:[{title:"awesome-notes",author:"sabertazimi",url:"https://sabertazimi.github.io/awesome-notes",description:"Daily I Learned Notes"}]}))}}}]);
+//# sourceMappingURL=component---src-templates-books-jsx-e0e3339b1b135fb24cc1.js.map

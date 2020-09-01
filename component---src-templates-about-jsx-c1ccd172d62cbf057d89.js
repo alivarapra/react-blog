@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{184:function(e,t,n){"use strict";n.r(t);var o=n(0),a=n.n(o),i=n(233),r=n(215);t.default=function(e){var t=e.pageContext,n=t.githubProfile,o=t.githubRepos;return a.a.createElement(i.b,{banner:"About Me"},a.a.createElement(r.f,{githubProfile:n,githubRepos:o}))}}}]);
+//# sourceMappingURL=component---src-templates-about-jsx-c1ccd172d62cbf057d89.js.map
